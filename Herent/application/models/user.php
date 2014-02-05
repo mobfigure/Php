@@ -2,6 +2,8 @@
 <?php
 Class User extends CI_Model
 {
+	
+	
  function login($username, $password)
  {
    $this -> db -> select('id, username, password');
@@ -20,6 +22,16 @@ Class User extends CI_Model
    {
      return false;
    }
+ }
+ function add($username, $voornaam, $achternaam, $email, $password)
+ {
+ 	
+	$data = array(
+   'username' => $username ,
+   'password' => MD5($password)
+);
+
+$this->db->insert('users', $data);
  }
 }
 ?>
