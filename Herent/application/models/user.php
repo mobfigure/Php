@@ -28,7 +28,10 @@ Class User extends CI_Model
  	
 	$data = array(
    'username' => $username ,
-   'password' => MD5($password)
+   'password' => MD5($password),
+   'email' => $email ,
+   'firstname' => $voornaam ,
+   'lastname' => $achternaam 
 );
 
 $this->db->insert('users', $data);
