@@ -1,18 +1,20 @@
-<?php
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-session_start(); //we need to call PHP's session object to access it through CI
+
 class ToolManagement extends CI_Controller {
 
  function __construct()
  {
    parent::__construct();
+   $this->load->model('tools');
+   $this->load->helper('form');
  }
 
  function index()
  {
+ 	
    if($this->session->userdata('logged_in'))
    {
-    
+     $this->load->view('tools_view');
    }
    else
    {
@@ -20,4 +22,14 @@ class ToolManagement extends CI_Controller {
      redirect('login', 'refresh');
    }
  }
+ 
+ function addTool()
+ {
+ 	
+ 	$this->tools->add($this->input->post('name'), $this->input->post('specification'));
+ 	$this->load->view('tools_view');
+ }
+ }
+ 
+ 
 ?>
