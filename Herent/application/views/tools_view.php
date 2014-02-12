@@ -27,6 +27,14 @@
 	 <label for="specification">eigenschap:</label>
      <input type="text" size="20" id="specification" name="specification"/>
      <br/>
+	 categorie:
+	<select name="category">
+		<option value="NULL"></option>
+		<option value="keuken">keuken</option>
+		<option value="tuin">tuin </option>
+		<option value="hobby">hobby</option>		
+	</select>
+	 <br/>
      <input type="submit" value="add"/>
    </form>
    

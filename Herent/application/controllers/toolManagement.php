@@ -17,6 +17,7 @@ class ToolManagement extends CI_Controller {
    	$result= $this->tools->show();
 	
 	$data["result"]=$result;
+	 $this->load->view('stdview/header_view');
      $this->load->view('tools_view',$data);
    }
    else
@@ -29,7 +30,7 @@ class ToolManagement extends CI_Controller {
  function addTool()
  {
  	
- 	$this->tools->add($this->input->post('name'), $this->input->post('specification'));
+ 	$this->tools->add($this->input->post('name'), $this->input->post('specification'), $this->input->post('category'));
  	 redirect('/toolManagement', 'refresh');//$this->load->view('tools_view');
  }
   function deleteTool() // !! delete hammer means delete all hammers in the list
