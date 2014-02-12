@@ -5,6 +5,7 @@
    <title>Simple Login with CodeIgniter - Private Area</title>
  </head>
  <body>
+ <?php echo anchor('toolManagement', 'my tools', 'title="my tools"');?>
    <h1>Home</h1>
    <h2>Welcome <?php echo $username; ?>!</h2>
    <a href="home/logout">Logout</a>

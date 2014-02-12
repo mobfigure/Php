@@ -5,6 +5,17 @@
  </head>
  <body>
    <h1>List Tools</h1>
+   <?php echo form_open('toolManagement/deleteTool'); ?>
+   <table border="2">
+   <?php foreach ($result as $tool):?>
+<tr>
+<td><?php echo $tool->name;?></td><td><?php echo $tool->specifications;?></td>
+<td><input type="checkbox" name="tool" value="<?php echo $tool->name;?>"/></td>
+</tr>
+<?php endforeach;?>
+</table>
+<input type="submit" value="delete"/>
+</form>
    <h1>Add Tool</h1>
     <?php echo validation_errors(); ?>
    <?php echo form_open('toolManagement/addTool'); ?>

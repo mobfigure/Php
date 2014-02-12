@@ -14,7 +14,10 @@ class ToolManagement extends CI_Controller {
  	
    if($this->session->userdata('logged_in'))
    {
-     $this->load->view('tools_view');
+   	$result= $this->tools->show();
+	
+	$data["result"]=$result;
+     $this->load->view('tools_view',$data);
    }
    else
    {
@@ -27,7 +30,22 @@ class ToolManagement extends CI_Controller {
  {
  	
  	$this->tools->add($this->input->post('name'), $this->input->post('specification'));
- 	$this->load->view('tools_view');
+ 	 redirect('/toolManagement', 'refresh');//$this->load->view('tools_view');
+ }
+  function deleteTool() // !! delete hammer means delete all hammers in the list
+ {
+ 	var_dump($this->input->post('tool'));
+	if ($this->input->post('tool') != FALSE)
+	{
+		$this->tools->delete($this->input->post('tool'));
+		 redirect('/toolManagement', 'refresh');
+	}
+	else{
+		 redirect('/toolManagement', 'refresh');
+	}
+	
+	
+ 	
  }
  }
  

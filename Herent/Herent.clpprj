@@ -6994,10 +6994,10 @@
 				<treenode node="zipdata;PHP:Var Name;C:\Web\Herent\system\libraries\Zip.php;f5;34;13;34;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\system\libraries\Zip.php;f5;34;13;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</treenode>
-			<treenode node="Home;PHP:Class Name;C:\Web\Herent\application\controllers\home.php;f0;3;1;32;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f0;3;1;32;;;;vpos;;vCI_Controller;;c;;r;;d33,3;;b0,0;;m">
+			<treenode node="Home;PHP:Class Name;C:\Web\Herent\application\controllers\home.php;f0;3;1;32;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f0;3;1;34;;;;vpos;;vCI_Controller;;c;;r;;d33,3;;b0,0;;m">
 				<treenode node="__construct;PHP:Function Name;C:\Web\Herent\application\controllers\home.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;5;2;8;;;;vpos;;v;;r;;d1,6;;b0,0;;m">
 				</treenode>
-				<treenode node="index;PHP:Function Name;C:\Web\Herent\application\controllers\home.php;f1;10;2;23;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;10;2;23;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;10;2;23;;;;vpos;;v;;r;;d1,11;;b0,0;;m">
+				<treenode node="index;PHP:Function Name;C:\Web\Herent\application\controllers\home.php;f1;10;2;23;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;10;2;25;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;10;2;25;;;;vpos;;v;;r;;d1,11;;b0,0;;m">
 					<treenode node="data;PHP:Var Name;C:\Web\Herent\application\controllers\home.php;f5;15;10;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f5;15;10;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f5;15;10;15;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="session_data;PHP:Var Name;C:\Web\Herent\application\controllers\home.php;f5;14;18;14;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f5;14;18;14;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f5;14;18;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
@@ -7005,38 +7005,96 @@
 					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\home.php;f6;12;11;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f6;12;11;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f6;12;11;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="logout;PHP:Function Name;C:\Web\Herent\application\controllers\home.php;f1;25;2;30;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;25;2;30;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;25;2;30;;;;vpos;;v;;r;;d1,26;;b0,0;;m">
-					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\home.php;f3;27;8;27;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f3;27;8;27;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f3;27;8;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="logout;PHP:Function Name;C:\Web\Herent\application\controllers\home.php;f1;25;2;30;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;27;2;32;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f1;27;2;32;;;;vpos;;v;;r;;d1,28;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\home.php;f3;27;8;27;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f3;29;8;29;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php;f3;29;8;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 			</treenode>
 			<treenode node="Login;PHP:Class Name;C:\Web\Herent\application\controllers\Codelobster0.php;f0;3;1;16;;C:\Web\Herent\application\controllers\login.php;f0;3;1;17;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f0;3;1;17;;;;vpos;;vCI_Controller;;c;;r;;d34,3;;b0,0;;m">
-				<treenode node="__construct;PHP:Function Name;C:\Web\Herent\application\controllers\Codelobster0.php;f1;5;2;8;;C:\Web\Herent\application\controllers\login.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;5;2;8;;;;vpos;;v;;r;;d1,6;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\Web\Herent\application\controllers\Codelobster0.php;f1;5;2;8;;C:\Web\Herent\application\controllers\login.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;5;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;5;2;8;;;;vpos;;v;;r;;d1,6;;b0,0;;m">
 				</treenode>
-				<treenode node="index;PHP:Function Name;C:\Web\Herent\application\controllers\Codelobster0.php;f1;10;2;14;;C:\Web\Herent\application\controllers\login.php;f1;10;2;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;10;2;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;10;2;15;;;;vpos;;v;;r;;d1,11;;b0,0;;m">
-					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\Codelobster0.php;f3;12;8;12;;C:\Web\Herent\application\controllers\login.php;f3;12;8;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f3;12;8;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f3;12;8;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="index;PHP:Function Name;C:\Web\Herent\application\controllers\Codelobster0.php;f1;10;2;14;;C:\Web\Herent\application\controllers\login.php;f1;10;2;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;10;2;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;10;2;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f1;10;2;15;;;;vpos;;v;;r;;d1,11;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\Codelobster0.php;f3;12;8;12;;C:\Web\Herent\application\controllers\login.php;f3;12;8;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f3;12;8;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f3;12;8;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php;f3;12;8;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
 			</treenode>
 			<treenode node="Signup;PHP:Class Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f0;2;1;40;;;;vpos;;vCI_Controller;;c;;r;;d35,2;;b0,0;;m">
 				<treenode node="__construct;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f1;4;2;8;;;;vpos;;v;;r;;d1,5;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f3;7;8;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 				</treenode>
 				<treenode node="index;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f1;10;3;14;;;;vpos;;v;;r;;d1,11;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f2;12;7;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 				</treenode>
 				<treenode node="validate;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f0;15;1;38;;;;vpos;;v;;r;;d0,16;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php;f1;18;6;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
 				</treenode>
 			</treenode>
-			<treenode node="User;PHP:Class Name;C:\Web\Herent\application\models\Codelobster0.php;f0;2;1;23;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f0;2;1;38;;;;vpos;;vCI_Model;;c;;r;;d0,3;;b0,0;;m">
-				<treenode node="add;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;25;2;37;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;25;2;37;;;;vpos;;v;;r;;d1,26;;b0,0;;musername;;pvoornaam;;pachternaam;;pemail;;ppassword;;p">
+			<treenode node="ToolManagement;PHP:Class Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f0;2;2;31;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f0;2;2;45;;;;vpos;;vCI_Controller;;c;;r;;d43,2;;b0,0;;m">
+				<treenode node="__construct;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f1;4;2;9;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;4;2;9;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;4;2;9;;;;vpos;;v;;r;;d1,5;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f3;7;8;7;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f3;7;8;7;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f3;7;8;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="addTool;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f1;25;2;30;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;28;2;33;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;28;2;33;;;;vpos;;v;;r;;d1,29;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f2;28;7;28;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f2;31;7;31;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f2;31;7;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="deleteTool;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f2;34;2;44;;;;vpos;;v;;r;;d1,35;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f11;36;16;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="index;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f1;11;2;23;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;11;2;26;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;11;2;26;;;;vpos;;v;;r;;d1,12;;b0,0;;m">
+					<treenode node="data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f1;18;6;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="result;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f4;16;11;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagment.php;f6;14;11;14;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f6;14;11;14;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php;f6;14;11;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</treenode>
+			<treenode node="Tools;PHP:Class Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f0;1;2;15;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f0;1;2;42;;;;vpos;;vCI_Model;;c;;r;;d0,2;;b0,0;;m">
+				<treenode node="add;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f2;3;2;14;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f2;3;2;14;;;;vpos;;v;;r;;d1,4;;b0,0;;mname;;pspecifications;;p">
+					<treenode node="data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f1;6;6;6;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f1;6;6;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="name;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f15;3;20;3;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f15;3;20;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="session_data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f2;5;15;5;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f2;5;15;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="specifications;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f22;3;37;3;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f22;3;37;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\Codelobster0.php;f18;5;23;5;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f18;5;23;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="delete;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f3;35;3;41;;;;vpos;;v;;r;;d2,36;;b0,0;;mtool;;p">
+					<treenode node="session_data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f2;37;15;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f18;37;23;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="tool;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f19;35;24;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+				<treenode node="show;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f1;16;4;34;;;;vpos;;v;;r;;d1,17;;b0,0;;m">
+					<treenode node="query;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f3;23;9;23;;;;vposCI_DB_result;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="session_data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f2;18;15;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php;f18;18;23;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</treenode>
+			<treenode node="User;PHP:Class Name;C:\Web\Herent\application\models\Codelobster0.php;f0;2;1;23;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f0;2;1;37;;;;vpos;;vCI_Model;;c;;r;;d0,3;;b0,0;;m">
+				<treenode node="add;PHP:Function Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;25;2;36;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;25;2;36;;;;vpos;;v;;r;;d1,26;;b0,0;;musername;;pvoornaam;;pachternaam;;pemail;;ppassword;;p">
 					<treenode node="achternaam;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f36;25;47;25;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f36;25;47;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;28;6;28;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;28;6;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="data;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;27;6;27;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f1;27;6;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="email;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f49;25;55;25;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f49;25;55;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="password;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f57;25;66;25;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f57;25;66;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f0;36;5;36;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f0;36;5;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="this;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f0;35;5;35;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f0;35;5;35;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="username;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f14;25;23;25;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php;f14;25;23;25;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
@@ -7054,19 +7112,19 @@
 					</treenode>
 				</treenode>
 			</treenode>
-			<treenode node="VerifyLogin;PHP:Class Name;C:\Web\Herent\application\controllers\verifylogin.php;f0;2;1;58;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f0;2;1;58;;;;vpos;;vCI_Controller;;c;;r;;d40,2;;b0,0;;m">
+			<treenode node="VerifyLogin;PHP:Class Name;C:\Web\Herent\application\controllers\verifylogin.php;f0;2;1;58;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f0;2;1;59;;;;vpos;;vCI_Controller;;c;;r;;d40,2;;b0,0;;m">
 				<treenode node="__construct;PHP:Function Name;C:\Web\Herent\application\controllers\verifylogin.php;f1;4;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f1;4;2;8;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f1;4;2;8;;;;vpos;;v;;r;;d1,5;;b0,0;;m">
 					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f3;7;8;7;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f3;7;8;7;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f3;7;8;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 				</treenode>
-				<treenode node="check_database;PHP:Function Name;C:\Web\Herent\application\controllers\verifylogin.php;f1;31;2;57;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f1;31;2;57;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f1;31;2;57;;;;vpos;;v;;r;;d1,32;;b0,0;;mpassword;;p">
+				<treenode node="check_database;PHP:Function Name;C:\Web\Herent\application\controllers\verifylogin.php;f1;31;2;57;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f1;31;2;59;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f1;31;2;58;;;;vpos;;v;;r;;d1,32;;b0,0;;mpassword;;p">
 					<treenode node="password;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f25;31;34;31;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f25;31;34;31;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f25;31;34;31;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="result;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f3;37;10;37;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f3;37;10;37;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f3;37;10;37;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="result;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f3;37;10;37;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f3;39;10;39;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f3;38;10;38;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="row;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f24;42;28;42;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f24;42;28;42;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f24;42;28;42;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="row;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f24;42;28;42;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f24;44;28;44;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f24;43;28;43;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
-					<treenode node="sess_array;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f5;41;16;41;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f5;41;16;41;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f5;41;16;41;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+					<treenode node="sess_array;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f5;41;16;41;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f5;43;16;43;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f5;42;16;42;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
 					<treenode node="this;PHP:Var Name;C:\Web\Herent\application\controllers\verifylogin.php;f15;34;20;34;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f15;34;20;34;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php;f15;34;20;34;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 					</treenode>
@@ -8210,6 +8268,8 @@
 			</treenode>
 			<treenode node="platforms;PHP:Var Name;C:\Web\Herent\application\config\user_agents.php;f0;12;10;12;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\user_agents.php;f0;12;10;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
+			<treenode node="result;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\tools_view.php;f18;9;25;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
 			<treenode node="robots;PHP:Var Name;C:\Web\Herent\application\config\user_agents.php;f0;165;7;165;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\user_agents.php;f0;165;7;165;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="route;PHP:Var Name;C:\Web\Herent\application\config\routes.php;f0;41;6;41;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\routes.php;f0;41;6;41;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
@@ -8225,6 +8285,8 @@
 			<treenode node="smileys;PHP:Var Name;C:\Web\Herent\application\config\smileys.php;f0;14;8;14;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\smileys.php;f0;14;8;14;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="system_path;PHP:Var Name;C:\Web\Herent\index.php;f1;58;13;58;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\index.php;f1;58;13;58;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="tool;PHP:Var Name;C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\tools_view.php;f29;9;34;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
 			<treenode node="UNI;PHP:Var Name;C:\Web\Herent\system\core\CodeIgniter.php;f1;157;5;157;;C:\Users\mobfigure\Documents\GitHub\Php\Herent\system\core\CodeIgniter.php;f1;157;5;157;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
 			</treenode>
@@ -8484,6 +8546,8 @@
 			<todo name="@todo - this needs to be made more general purpose" pos="6;1130"/>
 		</todofile>
 	</todoblock>
+	<dbgurls>
+	</dbgurls>
 	<filescache>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\user_guide\nav\user_guide_menu.js" crc="-364470057"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\user_guide\nav\prototype.lite.js" crc="-155470913"/>
@@ -8620,19 +8684,22 @@
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\system\core\Benchmark.php" crc="920928188"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\system\.htaccess" crc="-643410220"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\welcome_message.php" crc="735186897"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\tools_view.php" crc="1698429765"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\signup_view.php" crc="1471416604"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\login_view.php" crc="-1385273540"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\views\home_view.php" crc="-314084351"/>
-		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php" crc="-258007789"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\user.php" crc="-76291107"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\models\tools.php" crc="213716035"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\errors\error_php.php" crc="1872552885"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\errors\error_general.php" crc="-408254174"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\errors\error_db.php" crc="-1726591355"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\errors\error_404.php" crc="1631448776"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\welcome.php" crc="-1831389247"/>
-		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php" crc="1430931965"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\verifylogin.php" crc="1494692217"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\toolManagement.php" crc="590313340"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\signup.php" crc="-1176668234"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\login.php" crc="-2130316559"/>
-		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php" crc="1366733549"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\controllers\home.php" crc="1881053226"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\user_agents.php" crc="-484381080"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\smileys.php" crc="-749249654"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\routes.php" crc="57635693"/>
@@ -8644,7 +8711,7 @@
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\doctypes.php" crc="796808004"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\database.php" crc="2098338596"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\constants.php" crc="1276116486"/>
-		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\config.php" crc="-783388229"/>
+		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\config.php" crc="-1235590078"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\config\autoload.php" crc="-564292104"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\cache\.htaccess" crc="1792548129"/>
 		<file name="C:\Users\mobfigure\Documents\GitHub\Php\Herent\application\.htaccess" crc="-643410220"/>

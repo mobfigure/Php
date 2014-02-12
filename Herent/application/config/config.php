@@ -28,7 +28,7 @@ $config['encryption_key'] = '20201510202045165410225614654648481561812254';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
