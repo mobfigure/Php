@@ -13,7 +13,7 @@ Class Tools extends CI_Model
    
 );
 
-var_dump($this->db->insert('tools', $data));
+
  }
  
  function show()
@@ -43,22 +43,47 @@ var_dump($this->db->insert('tools', $data));
 		var_dump($this->db->delete('tools')); 
  	}
 	
-	function toolsFromCategory($category)// verschillend van eigen userid
+	function toolsFromName($name)// verschillend van eigen userid
 	{
+		$session_data = $this->session->userdata('logged_in');
+		$this -> db -> select('name, specifications');
+   		$this -> db -> from('tools');
+  		$this -> db -> where('name', $name);
+		$this->db->where('userid !=', $session_data['id']);
+   		$query = $this -> db -> get();
+ 
+     	return $query->result();
+ 
+		
+		
+	}
+	
+		function toolsFromCategory($category)// verschillend van eigen userid
+	{
+		$session_data = $this->session->userdata('logged_in');
 		$this -> db -> select('name, specifications');
    		$this -> db -> from('tools');
   		$this -> db -> where('category', $category);
+		$this->db->where('userid !=', $session_data['id']);
    		$query = $this -> db -> get();
-   //var_dump($query -> num_rows());
   
-   if($query -> num_rows() > 0)
-   {
-     return $query->result();
-   }
-   else
-   {
-     return false;
-   }
+     	return $query->result();
+ 
+		
+		
+	}
+	
+		function toolsFromUsername($userid)// verschillend van eigen userid
+	{
+		$session_data = $this->session->userdata('logged_in');
+		$this -> db -> select('name, specifications');
+   		$this -> db -> from('tools');
+  		$this -> db -> where('userid', $userid);
+		$this->db->where('userid !=', $session_data['id']);
+   		$query = $this -> db -> get();
+  
+     	return $query->result();
+ 
 		
 		
 	}

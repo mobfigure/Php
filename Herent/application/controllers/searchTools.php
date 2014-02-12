@@ -10,15 +10,13 @@ class SearchTools extends CI_Controller {
 
  function searchByName()
  {
+ 	var_dump('niret hier');
    if($this->session->userdata('logged_in'))
    {
      $session_data = $this->session->userdata('logged_in');
      
-	//zoeken op naam
-	
-	//zoeken op categorie
-	
-	//zoeken op username
+	 $result=$this->tools->toolsFromName($this->input->post('toolname'));
+	 $data["results"]=$result;
 	 
 	 $this->load->view('stdview/header_view');
      $this->load->view('searchTools_view', $data);
@@ -36,7 +34,7 @@ class SearchTools extends CI_Controller {
    if($this->session->userdata('logged_in'))
    {
      $session_data = $this->session->userdata('logged_in');
-     $result=$this->tools->toolsFromCategory("keuken");
+     $result=$this->tools->toolsFromCategory($this->input->post('category'));
 	 $data["results"]=$result;
 	 $this->load->view('stdview/header_view');
      $this->load->view('searchTools_view', $data);
@@ -51,17 +49,18 @@ class SearchTools extends CI_Controller {
  
   function searchByUsername()
  {
+ 	var_dump('hier');
    if($this->session->userdata('logged_in'))
    {
+   	 
      $session_data = $this->session->userdata('logged_in');
-     
-	//zoeken op naam
-	
-	//zoeken op categorie
-	
-	//zoeken op username
+      $this->load->model('user');
+	  $result1=$this->user->idForUsername($this->input->post('username'));
+	  var_dump($result1[0]->id);
+	  $result=$this->tools->toolsFromUsername($result1['id']);
+	 $data["results"]=$result;
 	 
-	 $this->load->view('stdview/header_view');
+	$this->load->view('stdview/header_view');
      $this->load->view('searchTools_view', $data);
 	 
    }

@@ -35,6 +35,26 @@ Class User extends CI_Model
 
 $this->db->insert('users', $data);
  }
+ 
+ function idForUsername ($username)
+ {
+   $this -> db -> select('id');
+   $this -> db -> from('users');
+   $this -> db -> where('username', $username);
+   $this -> db -> limit(1);
+
+   $query = $this -> db -> get();
+	var_dump($query->result());
+   if($query -> num_rows() == 1)
+   {
+     return $query->result();
+   }
+   else
+   {
+     return false;
+   }
+	
+ }
 }
 ?>
 
